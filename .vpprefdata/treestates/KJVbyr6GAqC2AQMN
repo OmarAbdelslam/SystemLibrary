@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="T2niSr6GAqC2AQAF" projectPath="F:\Project_Libarary\Laibarary_Project.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>UseCaseDiagram</ExpandedPath>
+		<ExpandedPath>ClassDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>CommunicationDiagram</ExpandedPath>
+		<ExpandedPath>StateDiagram</ExpandedPath>
+		<ExpandedPath>ActivityDiagram</ExpandedPath>
+		<ExpandedPath>PackageDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<ExpandedPath>ERDiagram</ExpandedPath>
+		<ExpandedPath>ORMDiagram</ExpandedPath>
+		<SelectedPath>ClassDiagram,DJcSSr6GAqC2AQMD</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+</ProjectTreeState>

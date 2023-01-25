@@ -1,0 +1,9 @@
+F:\Project_Libarary\Training_Tools\Training_Tools\bin\Debug\Training_Tools.exe.config
+F:\Project_Libarary\Training_Tools\Training_Tools\bin\Debug\Training_Tools.exe
+F:\Project_Libarary\Training_Tools\Training_Tools\bin\Debug\Training_Tools.pdb
+F:\Project_Libarary\Training_Tools\Training_Tools\obj\Debug\Training_Tools.csprojResolveAssemblyReference.cache
+F:\Project_Libarary\Training_Tools\Training_Tools\obj\Debug\Training_Tools.Form1.resources
+F:\Project_Libarary\Training_Tools\Training_Tools\obj\Debug\Training_Tools.Properties.Resources.resources
+F:\Project_Libarary\Training_Tools\Training_Tools\obj\Debug\Training_Tools.csproj.GenerateResource.Cache
+F:\Project_Libarary\Training_Tools\Training_Tools\obj\Debug\Training_Tools.exe
+F:\Project_Libarary\Training_Tools\Training_Tools\obj\Debug\Training_Tools.pdb

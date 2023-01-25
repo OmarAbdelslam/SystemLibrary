@@ -1,0 +1,13 @@
+F:\Project_Libarary\System_Library\System_Library\bin\Debug\System_Library.exe.config
+F:\Project_Libarary\System_Library\System_Library\bin\Debug\System_Library.exe
+F:\Project_Libarary\System_Library\System_Library\bin\Debug\System_Library.pdb
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.csprojResolveAssemblyReference.cache
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.Form1.resources
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.Properties.Resources.resources
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.csproj.GenerateResource.Cache
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.exe
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.pdb
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.data_Authores.resources
+F:\Project_Libarary\System_Library\System_Library\obj\Debug\System_Library.Form2.resources
+F:\Project_Libarary\System_Library\System_Library\bin\Debug\Dapper.dll
+F:\Project_Libarary\System_Library\System_Library\bin\Debug\Dapper.xml

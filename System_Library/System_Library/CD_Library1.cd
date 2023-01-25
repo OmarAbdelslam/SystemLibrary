@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System_Library.sPECILIZED">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABgIAAAAAAAAAAABABAAAAAAAAQAAAAgA=</HashCode>
+      <FileName>sPECILIZED.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Data_Authores">
+    <Position X="14" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABgIAAAAAEAAQAABKAAAACAAAAYBAAAAA=</HashCode>
+      <FileName>data_Authores.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Book_Authores" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Book_Authores">
+    <Position X="11.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAkAAAIBAAAAAAAAAABAAAAAIAAAASAAAAAA=</HashCode>
+      <FileName>Book_Authores.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Metaphor">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAEAAAABAgIAAAIQAAAAEABARAIAgEQAAYAAAAAA=</HashCode>
+      <FileName>Metaphor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Employee">
+    <Position X="15.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQDAAAAAQAAAICAAAgAgAQIABIEAAEjAAAAY4AAAgA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Metaphor" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Customers">
+    <Position X="8.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAQICAAEAAgAQACBIEAAAiAAAAYAAAAAA=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Employee" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Publishing_house_data">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAACAAgIAgAIAAAAQAABIEAAAiAAAAYAAAAgA=</HashCode>
+      <FileName>Publishing_house_data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Supplier">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAgICAAIAAgAQAABIEAAAiAAAAYAACAAA=</HashCode>
+      <FileName>Supplier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Imports">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQDAABAAQAAAIAAAAAAAAAAABAGAACgBgAA4BAAAgA=</HashCode>
+      <FileName>Imports.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Publishing_house_data" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Order">
+    <Position X="5.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAgAQAAoIAAAIAAAAAAABAAAACBAAAAwQAAAAA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Subscription">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAgAAAQIAwIAAAMAAIAQQADIFEAACAQAAQAAAAAA=</HashCode>
+      <FileName>Subscription.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Bill">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIwBAAAAAQAAAIAAAIgAAAAAABAAAACBAAAAwQAAAAA=</HashCode>
+      <FileName>Bill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.DBWORK">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAQAAAIAQAAAAAAAABA=</HashCode>
+      <FileName>DBWORK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System_Library.Student">
+    <Position X="6" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAAIAAABAAAAAQABAAAEAEAABARAAAAAE=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System_Library.Book">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQBALAAwQAwiIAAIpoAAAAWCBIQBACCMgIAwBAAABA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="Employee" />
+      <Property Name="Book_Authores" />
+      <Property Name="Bill" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="System_Library.Methodes">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAIAAAAAAAAAAABAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Methodes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
